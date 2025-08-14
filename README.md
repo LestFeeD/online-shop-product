@@ -43,7 +43,7 @@ _________
 
 - **User Service**  
   Handles user registration, authentication, shopping cart, and order processing.  
-  [➡ View on GitHub]([https://github.com/username/user-service](https://github.com/LestFeeD/online-shop-user))
+  [➡ View on GitHub](https://github.com/LestFeeD/online-shop-user)
 
 
 
