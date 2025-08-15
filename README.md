@@ -6,7 +6,7 @@
 >The service comes with built-in Swagger API documentation and supports containerized deployment via Docker for straightforward setup and scalability.
 
 Database layout in pgAdmin 4
-![Структура БД](postgFile.pgerd.png)
+![Структура БД](dbImage.png)
 _________
 ## Swagger REST API docs:
 http://localhost:8092/swagger-ui/index.html#/
